@@ -1,0 +1,40 @@
+SKU;Producto;Categoria;Procesador;Precio
+MAC-PRO16-001;MacBook Pro 16;Portatil;M4 Pro;2533
+MAC-PRO14-002;MacBook Pro 14;Portatil;M3;2104
+MAC-PRO14-003;MacBook Pro 14;Portatil;M3;2876
+MAC-AIR15-004;MacBook Air 15;Portatil;M4;1331
+MAC-AIR13-005;MacBook Air 13;Portatil;M4;1116
+MAC-AIR13-006;MacBook Air 13;Portatil;M2;859
+MAC-IMAC-007;iMac;Escritorio;M4;1314
+MAC-MINI-008;Mac mini;Escritorio;M4;627
+MAC-STU-009;Mac Studio;Escritorio;M2 Pro;4207
+MAC-STU-010;Mac Studio;Escritorio;M2 Pro;1374
+MAC-DIS-011;Studio Display;Escritorio;;1717
+IPD-PRO-012;iPad Pro;iPad;M4;1116
+IPD-AIR-013;iPad Air;iPad;M3;644
+IPD-STD-014;iPad;iPad;A16;378
+IPD-MIN-015;iPad mini;iPad;A17 Pro;537
+IPD-AIR-016;iPad Air;iPad;M1;429
+IPH-16-017;iPhone 16;iPhone;Pro Max;1219
+IPH-16-018;iPhone 16;iPhone;Pro;1030
+IPH-16P-019;iPhone 16 Plus;iPhone; A18;910
+IPH-16-020;iPhone 16;iPhone; A18;773
+IPH-16E-021;iPhone 16e;iPhone; A18;575
+IPH-15P-022;iPhone 15 Plus;iPhone;A16 BIONIC;773
+IPH-15-023;iPhone 15;iPhone;A16 BIONIC;644
+IPH-14-024;iPhone 14;iPhone;A15 BIONIC;601
+IPH-13-025;iPhone 13;iPhone;A15 BIONIC;464
+AIR-PRO2-026;AirPods Pro 2;Audifonos;H2;240
+AIR-BSB-027;Beats Studio Buds;Audifonos;;129
+AIR-MM4-028;Marshall Major IV;Audifonos;;77
+ACC-LTU-029;Adaptador Lightning a USB;Accessorios;;30
+ACC-C30U-030;Cable de 30 pines a USB-A Apple;Accessorios;;18
+ACC-USBCV-031;Adaptador USB-C a VGA;Accessorios;;60
+ACC-TB3-032;Adaptador Thunderbolt 3;Accessorios;;52
+ACC-MAG85-033;Cargador MagSafe 2 de 85 W;Accessorios;;77
+TEC-SMART-034;Teclado Apple Smart Keyboard;Accessorios;;189
+TEC-MKF-035;Teclado Apple Magic Keyboard Folio;Accessorios;;292
+TEC-MK-036;Teclado Apple Magic Keyboard;Accessorios;;99
+ACC-PENR-037;Puntas de reemplazo para Apple Pencil;Accessorios;;21
+TEC-MK-038;Teclado Apple Magic Keyboard;Accessorios;;189
+ACC-USBCV-039;Adaptador USB-C a VGA Apple;Accessorios;;60
